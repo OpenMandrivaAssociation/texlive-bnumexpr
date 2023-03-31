@@ -1,6 +1,6 @@
 Name:		texlive-bnumexpr
 Version:	59244
-Release:	1
+Release:	2
 Summary:	Extends eTeX's \numexpr...\relax construct to big integers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bnumexpr
