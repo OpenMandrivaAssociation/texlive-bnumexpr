@@ -3,7 +3,7 @@ Version:	59244
 Release:	2
 Summary:	Extends eTeX's \numexpr...\relax construct to big integers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bnumexpr
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bnumexpr
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bnumexpr.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bnumexpr.doc.r%{version}.tar.xz
